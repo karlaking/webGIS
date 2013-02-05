@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>GPS_Ground_Truth_Pts</name>
+<Schema name="Ground_Truth_Points" id="Ground_Truth_Points">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="NAME" type="string"></SimpleField>
+	<SimpleField name="Landcover" type="string"></SimpleField>
+	<SimpleField name="LABEL_FLAG" type="int"></SimpleField>
+	<SimpleField name="FCC" type="string"></SimpleField>
+	<SimpleField name="TEXTLENGTH" type="int"></SimpleField>
+</Schema>
+
+<Placemark>
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8169,37.5049</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.7021,37.5384</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.5454,37.4747</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4795,37.4774</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3773,37.4317</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.2001,37.5275</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8080,37.6312</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.6936,37.6785</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.5764,37.6201</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3921,37.5579</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3278,37.6448</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.1975,37.5613</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8063,37.7574</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.7687,37.7696</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.6353,37.8014</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4366,37.7201</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.2742,37.7532</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.2491,37.6849</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8918,37.9229</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4587,37.8799</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.5489,37.9096</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4587,37.8799</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3661,37.8804</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.2465,37.8555</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8096,38.0349</coordinates></Point>
+  </Placemark>
+  
+
+  
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.7427,37.9557</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.5822,37.9539</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4158,38.0087</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3759,37.9523</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.8141,38.1349</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.7193,38.1030</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.5205,38.1136</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.4961,38.0928</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3456,38.1806</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Random</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.2068,38.1084</coordinates></Point>
+  </Placemark>
+  
+  
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Mirror Lake</SimpleData>
+		<SimpleData name="Landcover">Healthy Mixed Forest</SimpleData>
+		
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.55199,37.74794</coordinates></Point>
+  </Placemark>
+  
+<Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Tuolumne Meadows</SimpleData>
+		<SimpleData name="Landcover">Diseased Lodge Pole</SimpleData>
+	
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.3895,37.87805</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Olmstead Point</SimpleData>
+		<SimpleData name="Landcover">Healthy Canopy, exposed granite</SimpleData>
+		
+		
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.48701,37.80725</coordinates></Point>
+  </Placemark>
+ 
+ <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Off Route 120</SimpleData>
+		<SimpleData name="Landcover">Widespread morality</SimpleData>
+
+	
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.52145,37.81471</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Mariposa Grove</SimpleData>
+		<SimpleData name="Landcover">Pine and Shrub , mixed age</SimpleData>
+		
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.61020,37.5052</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Bachelor and Three Graces</SimpleData>
+		<SimpleData name="Landcover">Sequioa Trees</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.60431,37.50387</coordinates></Point>
+  </Placemark>
+  
+
+  
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Mosquito Creek</SimpleData>
+		<SimpleData name="Landcover">Large, mature Oaks</SimpleData>
+	
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.68400,37.5763</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Elephant Rock</SimpleData>
+		<SimpleData name="Landcover">Hardwood dominant, immature</SimpleData>
+		
+
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.60820,37.7168</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Porcupine Flat</SimpleData>
+		<SimpleData name="Landcover">Immature Red Firs</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.54563,37.80639</coordinates></Point>
+  </Placemark>
+
+
+  <Placemark>
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">East side</SimpleData>
+		<SimpleData name="Landcover">Aspen Stands</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.22525,37.95109</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Dana Meadows</SimpleData>
+		<SimpleData name="Landcover">Lodgepole dominant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.26125,37.88964</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Big Oak Meadow</SimpleData>
+		<SimpleData name="Landcover">Regeneration from '97 fire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.75068,37.72546</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Off Roackafeller Path</SimpleData>
+		<SimpleData name="Landcover">Dead, burned</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.83806,37.76966</coordinates></Point>
+  </Placemark>
+  
+   
+<Placemark>
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.6518,37.5393</coordinates></Point>
+  </Placemark>
+
+<Placemark>
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.7941,37.6716</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.702288794546 37.8722401719755 2 2 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.596381739051 37.828510965418 2 3</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>54</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.590311363889 37.746245082568 2 4 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>55</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.661243892085 37.5391867005025 2 5</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>56</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.746949903799 37.9699502008893 2 6</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>57</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.708396443814 37.6978337977639 2 7
+</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>58</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.468328654558 37.8678589749324 2 8</coordinates></Point>
+  </Placemark>
+  
+   <Placemark>
+	<name>59</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.509672439803 37.7257822125469 2 9</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>60</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.640688344205 37.5446148472175 2 60</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>61</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.652241807039 37.5464834282638 2 1</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>62</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.652615830422 37.5920513313988 2 2</coordinates></Point>
+  </Placemark>
+  
+    <Placemark>
+	<name>63</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.537962198696 37.7718559426692 2 3</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>64</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.408333333862 37.7210000030131 2 4</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>65</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.516223483731 37.6721221247633 2 5 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>66</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.800850130687 38.0061082244762 2 6</coordinates></Point>
+  </Placemark>
+  
+   <Placemark>
+	<name>67</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.533396235801 37.7244749333246 2 7 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>68</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.781250824175 37.6762550176645 2 8 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>69</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.726920936969 37.9968529656865 2 9</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>70</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.647049975977 37.8050333322971 </coordinates></Point>
+  </Placemark>
+  
+     <Placemark>
+	<name>71</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.810026144119 37.9969838746648 2 1 </coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>72</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.602660318637 37.7321128369986 2 2</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>73</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.806270779422 37.7683663623839</coordinates></Point>
+  </Placemark>
+  
+  <Placemark>
+	<name>74</name>
+	<ExtendedData><SchemaData schemaUrl="#Ground_Truth_Points">
+		<SimpleData name="Name">Fire History</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> -119.7985,37.9017</coordinates></Point>
+  </Placemark>
+  
+</Folder></Document></kml>
